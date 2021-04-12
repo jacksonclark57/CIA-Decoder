@@ -1,0 +1,10 @@
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\bin\Debug\CIA_Decoder.exe.config
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\bin\Debug\CIA_Decoder.exe
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\bin\Debug\CIA_Decoder.pdb
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\obj\Debug\CIA_Decoder.csprojAssemblyReference.cache
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\obj\Debug\CIA_Decoder.Form1.resources
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\obj\Debug\CIA_Decoder.Properties.Resources.resources
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\obj\Debug\CIA_Decoder.csproj.GenerateResource.cache
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\obj\Debug\CIA_Decoder.csproj.CoreCompileInputs.cache
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\obj\Debug\CIA_Decoder.exe
+C:\Users\16627\source\repos\CIA_Decoder\CIA_Decoder\obj\Debug\CIA_Decoder.pdb
